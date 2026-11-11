@@ -1,0 +1,11 @@
+# Publikowane są tylko: index.html (zaszyfrowany), sw.js, manifest, ikony.
+# Wszystko poniżej zostaje wyłącznie na komputerze.
+src/
+narzedzia/
+HASLO.txt
+*.JPG
+*.jpg
+.claude/
+CLAUDE.md
+NOTATKI/
+.DS_Store
