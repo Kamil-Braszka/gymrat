@@ -1,7 +1,8 @@
-# Publikowane są tylko: index.html (zaszyfrowany), sw.js, manifest, ikony.
+# Publikowane są tylko: index.html (zaszyfrowane), sw.js, manifest i ikony – w katalogu głównym i w folderach osób (np. kafar/).
 # Wszystko poniżej zostaje wyłącznie na komputerze.
 src/
 narzedzia/
+osoby/
 HASLO.txt
 *.JPG
 *.jpg
